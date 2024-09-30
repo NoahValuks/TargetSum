@@ -28,6 +28,9 @@ npm run android
 
 # OR using Yarn
 yarn android
+
+#OR
+react-native run-android
 ```
 
 ### For iOS
@@ -38,6 +41,9 @@ npm run ios
 
 # OR using Yarn
 yarn ios
+
+#OR
+react-native run-ios
 ```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
