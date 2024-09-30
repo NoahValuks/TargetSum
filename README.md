@@ -63,3 +63,10 @@ And if you lose, you'll see:
 <img width="334" alt="image" src="https://github.com/user-attachments/assets/34ca6a3b-36f6-4581-9895-106fdbdea450">
 
 The play again button will restart the game with a new target number
+
+Example of play:
+
+https://github.com/user-attachments/assets/745ce4fa-c5a9-41f7-9865-0db11c2c20aa
+
+
+
